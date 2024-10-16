@@ -1,2 +1,1 @@
-# Final_Assignment_of_HTML_CSS
-Final_Assignment_of_HTML and CSS
+simple Practice
